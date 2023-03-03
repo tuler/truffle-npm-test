@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "truffle": "^5.1.0",
+    "truffle": "^5.7.9",
     "truffle-test-a": "file:../truffle-test-a"
   },
   "devDependencies": {},
